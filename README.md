@@ -39,9 +39,3 @@ We use the **ALL/AML Leukemia Gene Expression Dataset**, available on [Kaggle](h
 
 ---
 
-## 🧠 Model Architecture
-
-We use a **Sparse Restricted Boltzmann Machine (RBM)** for unsupervised feature extraction, followed by a supervised classifier (e.g., Logistic Regression or MLP) for classification.
-
-**Pipeline:**
-
